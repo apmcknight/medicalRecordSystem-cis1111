@@ -1,17 +1,12 @@
 /* 
 (c) 2021 - Adam McKnight, All Rights Reserved.
 
-Licence Should be pasted here.
-
-Expected Code Output should be pasted here.
-
-For detailed documentation, open the index.html file in the /docs folder or see the github readme.md file in the directory root.
+For detailed documentation, open the readme.txt file in the / or see the github readme.md file in the directory root.
 */
 
 
 #include <iostream>
 #include <string>
-//#include <math>
 
 using namespace std;
 
@@ -44,12 +39,20 @@ int main ()
 
     switch( selection ) {
         case 1:
-            printf("This program is being built, and functionality for retrieving paitent records has not been released.");
-            
+            printf("This program is being built, and functionality for retrieving patient records has not been released.");
+        
             break;
             
         case 2:
-            printf("This program is being built, and functionality for retrieving paitent records has not been released.");
+            printf("This program is being built, and functionality for retrieving patient records has not been released.");
+            break;
+        
+        case 3:
+            printf("This program is being built, and functionality for retrieving patient records has not been released.");
+            break;
+
+        case 4:
+            printf("This program is being built, and functionality for retrieving patient records has not been released.");
             break;
         
         case 5:
